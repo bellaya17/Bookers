@@ -1,0 +1,43 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  margin: 33px;
+}
+
+body a{
+  color: black;
+  
+}
+
+body a:hover {
+  color: white;
+  background-color: black;
+}
+
+
+span {
+  display :block;
+}
+
+table td{
+  padding: 3px 10px;
+  margin-right: 10px;
+}
+
+.list-notice{
+  color: green;
+  margin-left: 40px;
+}
+
+.show-text{
+  margin-left: 40px;
+  line-height: 50px;
+}
+
+.error p {
+  color: red;
+}
+
+
